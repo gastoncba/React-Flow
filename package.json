@@ -5,6 +5,7 @@
   "dependencies": {
     "@emotion/react": "^11.9.3",
     "@emotion/styled": "^11.9.3",
+    "@mui/icons-material": "^5.8.4",
     "@mui/material": "^5.8.6",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
@@ -14,7 +15,9 @@
     "@types/react": "^18.0.14",
     "@types/react-dom": "^18.0.5",
     "react": "^18.2.0",
+    "react-card-slider-component": "^1.0.9",
     "react-dom": "^18.2.0",
+    "react-multi-carousel": "^2.8.2",
     "react-scripts": "5.0.1",
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^2.1.3",
