@@ -1,1 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Sulphur+Point&display=swap');
+
+.camera {
+    width: '100%';
+    max-width: '100%';
+    height: auto;
+}
